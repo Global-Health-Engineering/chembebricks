@@ -1,0 +1,22 @@
+# -----------------------------------------------------------
+# CITATION file created with {cffr} R package, v0.4.0
+# See also: https://docs.ropensci.org/cffr/
+# -----------------------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "chembebricks" in publications use:'
+type: software
+license: CC-BY-4.0
+title: 'chembebricks: What the Package Does (One Line, Title Case)'
+version: 0.0.0.9000
+abstract: What the package does (one paragraph).
+authors:
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
+contact:
+- family-names: Schöbitz
+  given-names: Lars
+  email: lschoebitz@ethz.ch
+  orcid: https://orcid.org/0000-0003-2196-5015
