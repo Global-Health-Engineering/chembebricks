@@ -2,9 +2,9 @@ Package: chembebricks
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: c(
-    person(given = "",
-           family = "",
-           email = "",
+    person(given = "Anna",
+           family = "Bossard",
+           email = "anlebossard@gmail.com",
            role = c("aut"),
            comment = c(ORCID = "")),
     person(given = "Lars",
@@ -13,7 +13,7 @@ Authors@R: c(
            role = c("cre"),
            comment = c(ORCID = "0000-0003-2196-5015"))
            )
-Description: What the package does (one paragraph).
+Description: Heat model of brick clamps that uses temperature measurements from a real clamp as a baseline.
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
