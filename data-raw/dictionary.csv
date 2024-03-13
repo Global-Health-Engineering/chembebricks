@@ -1,1 +1,7 @@
-directory, file_name, variable_name, variable_type, description
+"directory"," file_name"," variable_name"," variable_type"," description"
+"data/DL_1_2_3_4","DL1_file1.CSV",,,"Measurement 1"
+"data/DL_1_2_3_4","DL1_file2.CSV",,,"Measurement 2"
+"data/DL_1_2_3_4","DL1_file3.CSV",,,"Measurement 3"
+"data/DL_1_2_3_4","DL1_file4.CSV",,,"Measurement 4"
+"data/DL_1_2_3_4","DL1_file5.CSV",,,"Measurement 5"
+"data/DL_1_2_3_4","DL1_total.CSV",,,"measurements stitched together chronologically"
