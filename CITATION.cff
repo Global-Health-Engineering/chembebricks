@@ -2,14 +2,14 @@
 # CITATION file created with {cffr} R package, v0.4.0
 # See also: https://docs.ropensci.org/cffr/
 # -----------------------------------------------------------
- 
+
 cff-version: 1.2.0
 message: 'To cite package "chembebricks" in publications use:'
 type: software
 license: CC-BY-4.0
 title: 'chembebricks: What the Package Does (One Line, Title Case)'
 version: 0.0.0.9000
-abstract: What the package does (one paragraph).
+abstract: 'Preprocessing of raw temperature data (python scripts) that was collected over the period of one brick firing process in a traditional clamp kiln in Malawi. Simulation of Heat distribution in different clamp designs. Analysis of the resulting brick quality depending on the achieved, simulated temperatures (MATLAB).'
 authors:
 - family-names: Schöbitz
   given-names: Lars

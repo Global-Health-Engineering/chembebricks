@@ -1,19 +1,22 @@
 Package: chembebricks
-Title: What the Package Does (One Line, Title Case)
+Title: Heat distribution in different clamp kiln designs (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: c(
-    person(given = "",
-           family = "",
-           email = "",
+    person(given = "Anna",
+           family = "Bossard",
+           email = "anlebossard@gmail.com",
            role = c("aut"),
-           comment = c(ORCID = "")),
+           comment = c(ORCID = "0009-0009-0215-5990")),
     person(given = "Lars",
            family = "Schöbitz",
            email = "lschoebitz@ethz.ch",
            role = c("cre"),
            comment = c(ORCID = "0000-0003-2196-5015"))
            )
-Description: What the package does (one paragraph).
+Description: Preprocessing of raw temperature data (python scripts) that was collected over the period
+of one brick firing process in a traditional clamp kiln in Malawi. Simulation of Heat
+distribution in different clamp designs. Analysis of the resulting brick quality depending
+on the achieved, simulated temperatures (MATLAB).
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
